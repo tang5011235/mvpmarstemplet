@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.tang5011235.mvpmarstemplet.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tang5011235.mvpmarstemplet.MyBundle
 
 class MyProjectService(project: Project) {
 
